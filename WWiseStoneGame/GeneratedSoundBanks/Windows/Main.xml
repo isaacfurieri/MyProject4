@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
+	<SoundBanks>
+		<SoundBank Id="3161908922" Type="User" GUID="{2BD25190-9960-4CBD-851B-03283FE7E48D}" Language="SFX" Hash="{9CC8FCC7-FB53-54E1-A2B7-08F69C31D78E}">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<Media>
+				<File Id="723545237" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>aat_fx125_singy.wav</ShortName>
+					<CachePath>SFX/aat_fx125_singy_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="1097980931" Name="TestEvent" ObjectPath="\Events\Default Work Unit\TestEvent" GUID="{60462976-CBAF-4C47-8FF0-3E93C4AF5AF8}" DurationType="OneShot" DurationMin="7.68" DurationMax="7.68">
+					<MediaRefs>
+						<MediaRef Id="723545237"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{A74A1C41-5A5F-992E-301F-67D82BAF90F7}</FileHash>
+</SoundBanksInfo>

@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+WWiseStoneGame/.cache/
+
+WWiseStoneGame/WWiseStoneGame.luzal.validationcache
+
+WWiseStoneGame/WWiseStoneGame.luzal.wsettings

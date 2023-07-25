@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6CFFDB06-FC68-4148-8D57-C3AF9E59297E}" SchemaVersion="110">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{6CFFDB06-FC68-4148-8D57-C3AF9E59297E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="aat_fx125_singy" ID="{47533CA6-F22B-4DF6-A7BD-F3CD947569A0}" ShortID="686366236">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C1A2CAAC-5947-4D5C-BD1C-91BEAC5740FF}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{4B2F353E-5539-4135-9579-325E6B5DC338}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="aat_fx125_singy" ID="{AA37F266-4ACA-41A4-B68D-D4FDD7362510}">
+							<Language>SFX</Language>
+							<AudioFile>aat_fx125_singy.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="723545237"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="aat_fx125_singy" ID="{AA37F266-4ACA-41A4-B68D-D4FDD7362510}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>
