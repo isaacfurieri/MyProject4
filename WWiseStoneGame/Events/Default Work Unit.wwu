@@ -5,10 +5,10 @@
 			<ChildrenList>
 				<Event Name="TestEvent" ID="{60462976-CBAF-4C47-8FF0-3E93C4AF5AF8}">
 					<ChildrenList>
-						<Action Name="" ID="{54DA0DB5-9746-48EC-BD25-D13D9343A6AC}" ShortID="133015606">
+						<Action Name="" ID="{74885DE3-1682-4084-B258-2923A268163B}" ShortID="974818506">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="aat_fx125_singy" ID="{47533CA6-F22B-4DF6-A7BD-F3CD947569A0}" WorkUnitID="{6CFFDB06-FC68-4148-8D57-C3AF9E59297E}"/>
+									<ObjectRef Name="Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663" ID="{C185C309-202A-4731-B67D-982B28BD9D7D}" WorkUnitID="{6CFFDB06-FC68-4148-8D57-C3AF9E59297E}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

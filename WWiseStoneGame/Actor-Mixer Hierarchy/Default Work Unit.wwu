@@ -37,6 +37,28 @@
 						<ActiveSource Name="aat_fx125_singy" ID="{AA37F266-4ACA-41A4-B68D-D4FDD7362510}" Platform="Linked"/>
 					</ActiveSourceList>
 				</Sound>
+				<Sound Name="Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663" ID="{C185C309-202A-4731-B67D-982B28BD9D7D}" ShortID="788731391">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{C1A2CAAC-5947-4D5C-BD1C-91BEAC5740FF}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{4B2F353E-5539-4135-9579-325E6B5DC338}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663" ID="{AD98F6D4-5ED5-4F28-BDE5-7FC963392E5F}">
+							<Language>SFX</Language>
+							<AudioFile>Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="378316792"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663" ID="{AD98F6D4-5ED5-4F28-BDE5-7FC963392E5F}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

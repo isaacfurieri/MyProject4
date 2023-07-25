@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="16" SoundBankVersion="145">
 	<SoundBanks>
-		<SoundBank Id="3161908922" Type="User" GUID="{2BD25190-9960-4CBD-851B-03283FE7E48D}" Language="SFX" Hash="{43664F8C-E463-8843-8530-DC60B561E3B1}">
+		<SoundBank Id="3161908922" Type="User" GUID="{2BD25190-9960-4CBD-851B-03283FE7E48D}" Language="SFX" Hash="{5C90BE27-0812-9F72-0602-E34D219A9097}">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<Media>
-				<File Id="723545237" Language="SFX" Streaming="false" Location="Memory">
-					<ShortName>aat_fx125_singy.wav</ShortName>
-					<CachePath>SFX/aat_fx125_singy_10C4C929.wem</CachePath>
+				<File Id="378316792" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663.wav</ShortName>
+					<CachePath>SFX/Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663_10C4C929.wem</CachePath>
 				</File>
 			</Media>
 			<Events>
-				<Event Id="1097980931" Name="TestEvent" ObjectPath="\Events\Default Work Unit\TestEvent" GUID="{60462976-CBAF-4C47-8FF0-3E93C4AF5AF8}" DurationType="OneShot" DurationMin="4.673293" DurationMax="4.673293">
+				<Event Id="1097980931" Name="TestEvent" ObjectPath="\Events\Default Work Unit\TestEvent" GUID="{60462976-CBAF-4C47-8FF0-3E93C4AF5AF8}" DurationType="OneShot" DurationMin="3.5" DurationMax="3.5">
 					<MediaRefs>
-						<MediaRef Id="723545237"/>
+						<MediaRef Id="378316792"/>
 					</MediaRefs>
 				</Event>
 			</Events>
 		</SoundBank>
 	</SoundBanks>
-	<FileHash>{EBAFE2FB-67DD-0D7C-9C8A-098D09B2B9D8}</FileHash>
+	<FileHash>{FDBA9A4B-FE3C-2911-C6AB-D304D36333DF}</FileHash>
 </SoundBanksInfo>

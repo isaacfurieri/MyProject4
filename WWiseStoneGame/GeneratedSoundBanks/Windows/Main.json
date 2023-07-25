@@ -10,18 +10,18 @@
     "Type": "User",
     "GUID": "{2BD25190-9960-4CBD-851B-03283FE7E48D}",
     "Language": "SFX",
-    "Hash": "{43664F8C-E463-8843-8530-DC60B561E3B1}",
+    "Hash": "{5C90BE27-0812-9F72-0602-E34D219A9097}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
     "Media": [
      {
-      "Id": "723545237",
+      "Id": "378316792",
       "Language": "SFX",
       "Streaming": "false",
       "Location": "Memory",
-      "ShortName": "aat_fx125_singy.wav",
-      "CachePath": "SFX/aat_fx125_singy_10C4C929.wem"
+      "ShortName": "Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663.wav",
+      "CachePath": "SFX/Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663_10C4C929.wem"
      }
     ],
     "Events": [
@@ -31,17 +31,17 @@
       "ObjectPath": "\\Events\\Default Work Unit\\TestEvent",
       "GUID": "{60462976-CBAF-4C47-8FF0-3E93C4AF5AF8}",
       "DurationType": "OneShot",
-      "DurationMin": "4.673293",
-      "DurationMax": "4.673293",
+      "DurationMin": "3.5",
+      "DurationMax": "3.5",
       "MediaRefs": [
        {
-        "Id": "723545237"
+        "Id": "378316792"
        }
       ]
      }
     ]
    }
   ],
-  "FileHash": "{48DBC8AB-6036-29E7-CEF1-20ABA56F4CAD}"
+  "FileHash": "{A31E1D8C-C605-A228-48E3-5B5B083F573D}"
  }
 }
