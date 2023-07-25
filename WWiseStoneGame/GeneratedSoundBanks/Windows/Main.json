@@ -10,7 +10,7 @@
     "Type": "User",
     "GUID": "{2BD25190-9960-4CBD-851B-03283FE7E48D}",
     "Language": "SFX",
-    "Hash": "{9CC8FCC7-FB53-54E1-A2B7-08F69C31D78E}",
+    "Hash": "{43664F8C-E463-8843-8530-DC60B561E3B1}",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
     "ShortName": "Main",
     "Path": "Main.bnk",
@@ -31,8 +31,8 @@
       "ObjectPath": "\\Events\\Default Work Unit\\TestEvent",
       "GUID": "{60462976-CBAF-4C47-8FF0-3E93C4AF5AF8}",
       "DurationType": "OneShot",
-      "DurationMin": "7.68",
-      "DurationMax": "7.68",
+      "DurationMin": "4.673293",
+      "DurationMax": "4.673293",
       "MediaRefs": [
        {
         "Id": "723545237"
@@ -42,6 +42,6 @@
     ]
    }
   ],
-  "FileHash": "{F333C4F3-2344-F010-0F76-804142B1535D}"
+  "FileHash": "{48DBC8AB-6036-29E7-CEF1-20ABA56F4CAD}"
  }
 }
