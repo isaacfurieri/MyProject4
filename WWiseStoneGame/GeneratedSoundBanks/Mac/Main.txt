@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1097980931	TestEvent			\Default Work Unit\TestEvent	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	378316792	Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663	C:\Users\luzal\Documents\Unreal Projects\MyProject4\WWiseStoneGame\.cache\Mac\SFX\Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663		672096
+

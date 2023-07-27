@@ -1,0 +1,47 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "145",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{2BD25190-9960-4CBD-851B-03283FE7E48D}",
+    "Language": "SFX",
+    "Hash": "{5C90BE27-0812-9F72-0602-E34D219A9097}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "378316792",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663.wav",
+      "CachePath": "SFX/Ambience, Birdsong, Day, Birds, Insects, Polecat Creek, Wyoming SND40663_10C4C929.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1097980931",
+      "Name": "TestEvent",
+      "ObjectPath": "\\Events\\Default Work Unit\\TestEvent",
+      "GUID": "{60462976-CBAF-4C47-8FF0-3E93C4AF5AF8}",
+      "DurationType": "OneShot",
+      "DurationMin": "3.5",
+      "DurationMax": "3.5",
+      "MediaRefs": [
+       {
+        "Id": "378316792"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{CEDD375C-F2EF-DD58-CD26-506716DD8E75}"
+ }
+}
